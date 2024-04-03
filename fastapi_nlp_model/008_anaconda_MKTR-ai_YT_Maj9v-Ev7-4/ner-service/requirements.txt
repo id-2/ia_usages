@@ -7,7 +7,7 @@ boto3==1.28.49
 botocore==1.31.49
 bpemb==0.3.4
 catalogue==2.0.9
-certifi==2023.7.22
+certifi==2024.2.2
 charset-normalizer==3.2.0
 click==8.1.7
 cloudpickle==2.2.1
@@ -23,10 +23,10 @@ en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.6.0/en_core_web_sm-3.6.0-py3-none-any.whl#sha256=83276fc78a70045627144786b52e1f2728ad5e29e5e43916ec37ea9c26a11212
 es-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.6.0/es_core_news_sm-3.6.0-py3-none-any.whl#sha256=917d0b6359b27b222ccd616c47b43ee951f05da7402fdccce99364a465fa95d6
 exceptiongroup==1.1.3
-fastapi==0.103.1
+fastapi==0.109.1
 filelock==3.12.4
 flair==0.12.2
-fonttools==4.42.1
+fonttools==4.43.0
 fr-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.6.0/fr_core_news_sm-3.6.0-py3-none-any.whl#sha256=88ba4254539a7efb51d5e0c5b6c4ea5b350542752b634088274c1b97d8c8b8ee
 fsspec==2023.9.1
 ftfy==6.1.1
@@ -43,7 +43,7 @@ idna==3.4
 importlib-resources==6.0.1
 iniconfig==2.0.0
 Janome==0.5.0
-Jinja2==3.1.2
+Jinja2==3.1.3
 jmespath==1.0.1
 joblib==1.3.2
 kiwisolver==1.4.5
@@ -61,7 +61,7 @@ nltk==3.8.1
 numpy==1.25.2
 packaging==23.1
 pathy==0.10.2
-Pillow==10.0.1
+Pillow==10.3.0
 pluggy==1.3.0
 pptree==3.1
 preshed==3.0.8
@@ -96,7 +96,7 @@ spacy-legacy==3.0.12
 spacy-loggers==1.0.4
 sqlitedict==2.1.0
 srsly==2.4.7
-starlette==0.27.0
+starlette==0.36.2
 sympy==1.12
 tabulate==0.9.0
 thinc==8.1.12
@@ -106,10 +106,10 @@ tomli==2.0.1
 torch==2.0.0
 tqdm==4.66.1
 transformer-smaller-training-vocab==0.3.1
-transformers==4.33.2
+transformers==4.36.0
 typer==0.9.0
 typing_extensions==4.7.1
-urllib3==1.26.16
+urllib3==1.26.18
 uvicorn==0.23.2
 wasabi==1.1.2
 wcwidth==0.2.6
