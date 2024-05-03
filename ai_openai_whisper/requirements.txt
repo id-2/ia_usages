@@ -10,7 +10,7 @@ ffmpeg-python==0.2.0
 filelock==3.12.4
 future==0.18.3
 h11==0.14.0
-idna==3.4
+idna==3.7
 imageio==2.31.5
 imageio-ffmpeg==0.4.9
 iniconfig==2.0.0
@@ -30,7 +30,7 @@ pandas==2.1.1
 Pillow==10.0.1
 pluggy==1.3.0
 proglog==0.1.10
-pydantic==2.4.2
+pydantic==2.7.1
 pydantic_core==2.10.1
 pytest==7.4.2
 python-dateutil==2.8.2
@@ -47,7 +47,7 @@ sympy==1.12
 tiktoken==0.3.3
 tomli==2.0.1
 torch==2.0.1
-tqdm==4.66.1
+tqdm==4.66.3
 typing_extensions==4.8.0
 tzdata==2023.3
 urllib3==2.0.5
