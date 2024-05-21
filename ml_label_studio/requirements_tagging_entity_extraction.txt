@@ -142,7 +142,7 @@ qtconsole==5.4.3
 QtPy==2.3.1
 redis==4.6.0
 regex==2023.6.3
-requests==2.31.0
+requests==2.32.0
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rich==13.4.2
@@ -182,7 +182,7 @@ toolz==0.12.0
 torch==2.0.1
 torchvision==0.15.2
 tornado==6.3.2
-tqdm==4.65.0
+tqdm==4.66.3
 traitlets==5.9.0
 transformers==4.30.2
 typer==0.7.0
