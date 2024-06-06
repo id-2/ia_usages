@@ -22,7 +22,7 @@ numpy==1.25.2
 packaging==23.1
 Pillow==10.0.0
 redis==4.6.0
-requests==2.31.0
+requests==2.32.2
 rq==1.15.1
 sympy==1.12
 torch==2.0.1
